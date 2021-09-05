@@ -37,7 +37,9 @@ and prioritize results based on search history, bookmarks, cookies, and
 popular searches from the internet as a whole. As you are typing
 "google.com" many blocks of code run and the suggestions will be refined
 with each keypress. It may even suggest "google.com" before you finish typing
-it.
+it. It is important to know that the suggestions not only show words or URLs 
+that start with g, but also any result that the algorithm considers necessary 
+and that contains the letter g
 
 The "enter" key bottoms out
 ---------------------------
